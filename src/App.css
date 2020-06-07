@@ -235,7 +235,7 @@ span {
   font-size: 1.2em;
 }
 #rest-card-subtitle {
-  font-size: 0.7em;
+  font-size: 0.8em;
 }
 
 .rest-button {
@@ -293,7 +293,7 @@ span {
     font-size: 0.8em;
   }
   #rest-card-subtitle {
-    font-size: 0.4em;
+    font-size: 0.6em;
   }
   .rest-button {
     font-size: 0.6em;
@@ -319,6 +319,10 @@ span {
     line-height: 20px;
     height: 20px;
     width: 20px;
+  }
+  #card-container {
+    padding-left: 5px;
+    padding-right: 5px;
   }
 }
 
