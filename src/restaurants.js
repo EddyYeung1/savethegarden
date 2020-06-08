@@ -5198,6 +5198,16 @@ const restaurants = [ {
    "region": "north"
  },
  {
+  "name": "The Bean Street Café",
+  "giftCard": "https://www.toasttab.com/the-bean-street-cafe/giftcards",
+  "site": "http://www.beanstreetcafe.com",
+  "address": "117 Merchants Way Marlton, NJ 08053",
+  "city": "Marlton",
+  "county": "Burlington",
+  "region": "south",
+  "black": "y"
+},
+ {
    "name": "Monsoon",
    "giftCard": "https://www.toasttab.com/monsoon/giftcards",
    "site": "https://www.toasttab.com/monsoon/giftcards",
@@ -5239,15 +5249,6 @@ const restaurants = [ {
    "site": "https://www.toasttab.com/the-pop-shop/giftcards",
    "address": "1 S Main St Medford, NJ 08055",
    "city": "Medford",
-   "county": "Burlington",
-   "region": "south"
- },
- {
-   "name": "The Bean Street Cafe",
-   "giftCard": "https://www.toasttab.com/the-bean-street-cafe/giftcards",
-   "site": "http://www.beanstreetcafe.com",
-   "address": "117 Merchants Way Marlton, NJ 08053",
-   "city": "Marlton",
    "county": "Burlington",
    "region": "south"
  },
